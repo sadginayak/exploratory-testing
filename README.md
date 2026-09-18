@@ -7,8 +7,8 @@ covering web, mobile, API and healthcare applications.
 
 | Project | Application | Testing Focus |
 |---|---|---|
-| [Ambu](./ambu) | Application Software | Exploratory Testing |
-| [Mercedes-Benz](./mercedes-benz) | Car Configurator | Web Exploratory Testing |
+| [Ambu](./ambu) | Product live demo booking | Exploratory Testing |
+| [Mercedes-Benz](./mercedes-benz) | Test Drive Booking | Web Exploratory Testing |
 | [Monefy](./monefy) | Mobile App | Mobile Exploratory Testing |
 | [Orthanc](./orthanc) | DICOM Server | API and UI Healthcare Exploratory Testing |
 
