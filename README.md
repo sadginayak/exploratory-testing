@@ -1,17 +1,21 @@
+# Exploratory Testing Portfolio
 
-# AI-Assisted Testing
+A collection of exploratory testing sessions and test charters
+covering web, mobile, API and healthcare applications.
 
-## ambu-exploratory-testing-session
+## Projects
 
-This exploratory testing session was conducted independently by me within a 90-minutes timebox.
+| Project | Application | Testing Focus |
+|---|---|---|
+| Ambu | Application Software | Exploratory Testing |
+| Mercedes-Benz | Car Configurator | Web Exploratory Testing |
+| Monefy | Mobile App | Mobile Exploratory Testing |
+| Orthanc | DICOM Server | Healthcare Exploratory Testing |
 
-I used Claude as a review assistant after the exploratory session. I provided my own observations and findings and asked Claude to:
+## Focus points
 
-* challenge my conclusions and identify unsupported assumptions
-* help distinguish observations, risks, hypotheses and potential defects
-* review the organisation and clarity of the session report
-* identify areas that may require further investigation
-
-The test scenarios, observations, evidence and testing decisions were generated through my own exploration of the application. AI was used to review and structure the findings, not to perform the testing.
-
-Final findings were reviewed and adjusted by me based on the evidence actually collected during the session.
+- Exploratory testing
+- Test charter design
+- Boundary and negative testing
+- Defect investigation
+- Evidence-based reporting
