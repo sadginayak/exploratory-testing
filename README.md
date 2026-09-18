@@ -7,10 +7,10 @@ covering web, mobile, API and healthcare applications.
 
 | Project | Application | Testing Focus |
 |---|---|---|
-| Ambu | Application Software | Exploratory Testing |
-| Mercedes-Benz | Car Configurator | Web Exploratory Testing |
-| Monefy | Mobile App | Mobile Exploratory Testing |
-| Orthanc | DICOM Server | Healthcare Exploratory Testing |
+| [Ambu](./ambu) | Application Software | Exploratory Testing |
+| [Mercedes-Benz](./mercedes-benz) | Car Configurator | Web Exploratory Testing |
+| [Monefy](./monefy) | Mobile App | Mobile Exploratory Testing |
+| [Orthanc](./orthanc) | DICOM Server | Healthcare Exploratory Testing |
 
 ## Focus points
 
